@@ -40,6 +40,7 @@ Carl-Amery-Platz
 Chiemgaustraße
 Clemensstraße
 Cosimabad
+Donnersbergerbrücke
 Dülferstraße
 Dall'Armistraße
 Deroystraße
@@ -54,6 +55,7 @@ Elisabethplatz
 Fürstenried West
 Fürstenrieder Straße
 Fachnerstraße
+Fasanerie
 Fasaneriestraße
 Feldmoching
 Flurstraße
@@ -128,6 +130,7 @@ Kreillerstraße
 Kriemhildenstraße
 Kurfürstenplatz
 Kurzstraße
+Laim
 Laimer Platz
 Lautensackstraße
 Lehel
