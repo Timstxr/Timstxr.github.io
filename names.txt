@@ -1,105 +1,105 @@
-GrÃ¼nwald, Bavariafilmplatz
-GrÃ¼nwald, Derbolfinger Platz
-GrÃ¼nwald, Ludwig-Thoma-StraÃŸe
-GrÃ¼nwald, Parkplatz
-GrÃ¼nwald, Robert-Koch-StraÃŸe
-AckermannstraÃŸe
+Grünwald, Bavariafilmplatz
+Grünwald, Derbolfinger Platz
+Grünwald, Ludwig-Thoma-Straße
+Grünwald, Parkplatz
+Grünwald, Robert-Koch-Straße
+Ackermannstraße
 Agnes-Bernauer-Platz
-Agnes-Bernauer-StraÃŸe
-AidenbachstraÃŸe
-AlbrechtstraÃŸe
+Agnes-Bernauer-Straße
+Aidenbachstraße
+Albrechtstraße
 Allach
 Alte Heide
 Am Gasteig
 Am Hart
 Am Knie
 Am Lokschuppen
-Am MÃ¼nchner Tor
-AmalienburgstraÃŸe
-AmmerseestraÃŸe
-AmpfingstraÃŸe
-Anni-Albers-StraÃŸe
+Am Münchner Tor
+Amalienburgstraße
+Ammerseestraße
+Ampfingstraße
+Anni-Albers-Straße
 Arabellapark
 Arabellapark/Klinikum Bogenhausen
-ArabellastraÃŸe
+Arabellastraße
 Aubing
 Authariplatz
-BÃ¶hmerwaldplatz
-BarbarastraÃŸe
-BarthstraÃŸe
-Basler StraÃŸe
-Baumkirchner StraÃŸe
+Böhmerwaldplatz
+Barbarastraße
+Barthstraße
+Basler Straße
+Baumkirchner Straße
 Berg am Laim
 Berg am Laim Bahnhof
 Bonner Platz
 Borstei
 Botanischer Garten
 Briefzentrum
-BrudermÃ¼hlstraÃŸe
+Brudermühlstraße
 Bundesfinanzhof
-Burghausener StraÃŸe
+Burghausener Straße
 Candidplatz
 Carl-Amery-Platz
-ChiemgaustraÃŸe
-ClemensstraÃŸe
+Chiemgaustraße
+Clemensstraße
 Cosimabad
-DÃ¼lferstraÃŸe
+Dülferstraße
 Daglfing
-Dall'ArmistraÃŸe
-DeroystraÃŸe
+Dall'Armistraße
+Deroystraße
 Deutsches Museum
-DietlindenstraÃŸe
-DomagkstraÃŸe
-DonnersbergerbrÃ¼cke
-DonnersbergerstraÃŸe
-Eduard-Schmid-StraÃŸe
+Dietlindenstraße
+Domagkstraße
+Donnersbergerbrücke
+Donnersbergerstraße
+Eduard-Schmid-Straße
 Effnerplatz
-EinsteinstraÃŸe
+Einsteinstraße
 Elisabethplatz
 Englschalking
-FÃ¼rstenried West
-FÃ¼rstenrieder StraÃŸe
-FachnerstraÃŸe
+Fürstenried West
+Fürstenrieder Straße
+Fachnerstraße
 Fasanenpark
 Fasanerie
-FasaneriestraÃŸe
+Fasaneriestraße
 Fasangarten
 Feldkirchen
 Feldmoching
-FlurstraÃŸe
+Flurstraße
 Forstenrieder Allee
-FrÃ¶ttmaning
+Fröttmaning
 Frankfurter Ring
-FraunhoferstraÃŸe
+Fraunhoferstraße
 Freiham
 Freiham-Zentrum
 Freimann
-Friedenheimer StraÃŸe
+Friedenheimer Straße
 Friedensengel/Villa Stuck
 Fritz-Meyer-Weg
-GartenstraÃŸe
+Gartenstraße
 Gauting
 Georg-Brauchle-Ring
 Gern
 Giesing
 Giesing Bahnhof
-GiselastraÃŸe
+Giselastraße
 Goetheplatz
 Gondrellplatz
-GrÃ¤felfing
-GrÃ¶benzell
-GrillparzerstraÃŸe
-GroÃŸhadern
-GroÃŸhesselohe Isartalbahnhof
-GroÃŸhesseloher BrÃ¼cke
+Gräfelfing
+Gröbenzell
+Grillparzerstraße
+Großhadern
+Großhesselohe Isartalbahnhof
+Großhesseloher Brücke
 Gronsdorf
-HÃ¶llriegelskreuth
+Höllriegelskreuth
 Haar
-HackerbrÃ¼cke
+Hackerbrücke
 Haderner Stern
 Haidenauplatz
-Hanauer StraÃŸe
-Hans-Thonauer-StraÃŸe
+Hanauer Straße
+Hans-Thonauer-Straße
 Harras
 Harthaus
 Harthof
@@ -107,79 +107,79 @@ Hasenbergl
 Hauptbahnhof
 Hauptbahnhof (tief)
 Hauptbahnhof Nord
-Hauptbahnhof SÃ¼d
-HeideckstraÃŸe
+Hauptbahnhof Süd
+Heideckstraße
 Heimeranplatz
 Herkomerplatz
-Hermann-Lingg-StraÃŸe
-HerzogstraÃŸe
+Hermann-Lingg-Straße
+Herzogstraße
 Hirschgarten
-Hochschule MÃ¼nchen
-Hochschule MÃ¼nchen (LothstraÃŸe)
+Hochschule München
+Hochschule München (Lothstraße)
 Hohenbrunn
 Hohenzollernplatz
-HolbeinstraÃŸe
+Holbeinstraße
 Holzapfelkreuth
-HolzapfelstraÃŸe
+Holzapfelstraße
 Holzkirchner Bahnhof
-HopfenstraÃŸe
-HubertusstraÃŸe
-Hugo-Troendle-StraÃŸe
-ImplerstraÃŸe
-InfanteriestraÃŸe
+Hopfenstraße
+Hubertusstraße
+Hugo-Tröndle-Straße
+Implerstraße
+Infanteriestraße
 Innsbrucker Ring
 Isartor
 Ismaning
 Johanneskirchen
 Josephsburg
 Josephsplatz
-KÃ¶lner Platz
-KÃ¶nigsplatz
+Kölner Platz
+Königsplatz
 Kammerspiele
 Karl-Preis-Platz
 Karlsfeld
 Karlsplatz (Stachus)
 Karlsplatz (Stachus) Nord
-KarlstraÃŸe
-Karl-Theodor-StraÃŸe
+Karlstraße
+Karl-Theodor-Straße
 Karolinenplatz
 Kieferngarten
-Klinikum GroÃŸhadern
+Klinikum Großhadern
 Klinikum Harlaching
 Kolumbusplatz
-KreillerstraÃŸe
-KriemhildenstraÃŸe
-KurfÃ¼rstenplatz
-KurzstraÃŸe
+Kreillerstraße
+Kriemhildenstraße
+Kurfürstenplatz
+Kurzstraße
 Laim
 Laimer Platz
 Langwied
-LautensackstraÃŸe
+Lautensackstraße
 Lehel
-LeienfelsstraÃŸe
+Leienfelsstraße
 Lenbachplatz
 Leonrodplatz
 Leuchtenbergring
 Lochham
 Lochhausen
-LohensteinstraÃŸe
-MÃ¼llerstraÃŸe
-MÃ¼nchen Hauptbahnhof
-MÃ¼nchen Ost
-MÃ¼nchen SÃ¼d
-MÃ¼nchen-Pasing
-MÃ¼nchner Freiheit
-Machtlfinger StraÃŸe
-MaillingerstraÃŸe
+Lohensteinstraße
+Müllerstraße
+München Hauptbahnhof
+München Ost
+München Süd
+München-Pasing
+Münchner Freiheit
+Machtlfinger Straße
+Maillingerstraße
 Mangfallplatz
 Mariahilfplatz
 Mariannenplatz
-Maria-Ward-StraÃŸe
+Maria-Ward-Straße
 Marienplatz
-Marienplatz (TheatinerstraÃŸe)
-MarsstraÃŸe
+Marienplatz (Theatinerstraße)
+Marsstraße
 Martinsried
-MauerkircherstraÃŸe
+Mauerkircherstraße
 Maximilianeum
 Maxmonument
 Max-Weber-Platz
@@ -193,112 +193,112 @@ Mittersendling
 Moosach
 Moosacher Sankt-Martins-Platz
 Moosfeld
-MutschellestraÃŸe
+Mutschellestraße
 MVG Museum
 Nationalmuseum/Haus der Kunst
 Nationaltheater
 Neuaubing
 Neubiberg
 Neuhausen
-Neuperlach SÃ¼d
+Neuperlach Süd
 Neuperlach Zentrum
 Nordbad
-NordendstraÃŸe
+Nordendstraße
 Nordfriedhof
 Obermenzing
 Obersendling
 Oberwiesenfeld
 Odeonsplatz
-OffenbachstraÃŸe
+Offenbachstraße
 Olympia-Einkaufszentrum
-Olympiapark SÃ¼d
+Olympiapark Süd
 Olympiapark West
 Olympiazentrum
 Ostbahnhof
 Ostfriedhof
 Ottobrunn
-OttostraÃŸe
-ParadiesstraÃŸe
+Ottostraße
+Paradiesstraße
 Partnachplatz
 Parzivalplatz
 Pasing Bahnhof
-PelkovenstraÃŸe
+Pelkovenstraße
 Perlach
 Petuelring
 Pinakotheken
 Planegg
-PoccistraÃŸe
-Potsdamer StraÃŸe
+Poccistraße
+Potsdamer Straße
 Prinz-Eugen-Park
 Prinzregentenplatz
 Pullach
-QuiddestraÃŸe
+Quiddestraße
 Rathaus Pasing
 Regerplatz
-Regina-Ullmann-StraÃŸe
+Regina-Ullmann-Straße
 Reichenbachplatz
-RenatastraÃŸe
-Richard-Strauss-StraÃŸe
-Riedenburger StraÃŸe
+Renatastraße
+Richard-Strauss-Straße
+Riedenburger Stra��e
 Riem
 Romanplatz
 Rosenheimer Platz
 Rotkreuzplatz
-SÃ¤ulingstraÃŸe
-SÃ¼dtiroler StraÃŸe
-SandstraÃŸe
+Säulingstraße
+Südtiroler Straße
+Sandstraße
 Sankt-Martins-Platz
-Sankt-Martin-StraÃŸe
+Sankt-Martin-Straße
 Sankt-Quirin-Platz
 Scheidplatz
-Scheidplatz SÃ¼d
-SchellingstraÃŸe
+Scheidplatz Süd
+Schellingstraße
 Schilcherweg
-SchlÃ¶sselgarten
-SchlÃ¼sselbergstraÃŸe
+Schlösselgarten
+Schlüsselbergstraße
 Schloss Nymphenburg
-SchrenkstraÃŸe
+Schrenkstraße
 Schwabing Nord
 Schwabinger Tor
-SchwanseestraÃŸe
-SchwanthalerhÃ¶he
+Schwanseestraße
+Schwanthalerhöhe
 Sendlinger Tor
-SenftenauerstraÃŸe
+Senftenauerstraße
 Siemenswerke
-SiglstraÃŸe
-SilberhornstraÃŸe
+Siglstraße
+Silberhornstraße
 Solln
 St. Emmeram
-St.-Veit-StraÃŸe
-Stadtwerke MÃ¼nchen
+St.-Veit-Straße
+Stadtwerke München
 Stegener Weg
-SternwartstraÃŸe
+Sternwartstraße
 Stiglmaierplatz
 Stockdorf
 Studentenstadt
-TaimerhofstraÃŸe
+Taimerhofstraße
 Taufkirchen
-Tegernseer LandstraÃŸe
+Tegernseer Landstraße
 Thalkirchen
 Theodolindenplatz
 Therese-Giehse-Allee
-TheresienstraÃŸe
+Theresienstraße
 Theresienwiese
 Tiroler Platz
-TivolistraÃŸe
-TrappentreustraÃŸe
+Tivolistraße
+Trappentreustraße
 Trudering
-UniversitÃ¤t
-UnterfÃ¶hring
+Universität
+Unterföhring
 Unterhaching
 Untermenzing
-UntersbergstraÃŸe
+Untersbergstraße
 Vogelweideplatz
-VolkartstraÃŸe
-WÃ¶rthstraÃŸe
-WerinherstraÃŸe
+Volkartstraße
+Wörthstraße
+Werinherstraße
 Westbad
-WestendstraÃŸe
+Westendstraße
 Westfriedhof
 Westkreuz
 Westpark
