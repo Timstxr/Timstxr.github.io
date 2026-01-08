@@ -40,6 +40,7 @@ Carl-Amery-Platz
 Chiemgaustraße
 Clemensstraße
 Cosimabad
+Deisenhofen
 Donnersbergerbrücke
 Dülferstraße
 Dall'Armistraße
@@ -182,6 +183,7 @@ Olympiazentrum
 Ostbahnhof
 Ostfriedhof
 Ottostraße
+Ottobrunn
 Paradiesstraße
 Partnachplatz
 Parzivalplatz
