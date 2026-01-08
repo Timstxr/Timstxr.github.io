@@ -166,7 +166,6 @@ Lohensteinstraße
 Müllerstraße
 München Hauptbahnhof
 München Ost
-München Süd
 München-Pasing
 Münchner Freiheit
 Machtlfinger Straße
@@ -178,7 +177,6 @@ Maria-Ward-Straße
 Marienplatz
 Marienplatz (Theatinerstraße)
 Marsstraße
-Martinsried
 Mauerkircherstraße
 Maximilianeum
 Maxmonument
