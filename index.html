@@ -2,28 +2,29 @@
 <html lang="de">
 <head>
   <meta charset="utf-8">
-  <title>Zufälliger Name</title>
+  <title>Zufälliger Bahnhof</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
       margin-top: 100px;
     }
-    #output {
-      font-size: 2em;
-      margin-bottom: 20px;
-    }
     #neu {
-      font-size: 1.5em;       /* größere Schrift */
-      padding: 15px 30px;     /* größerer Button */
+      font-size: 24px;       /* große Schrift */
+      padding: 15px 40px;    /* größere Fläche */
       cursor: pointer;
-      border: none;
       border-radius: 8px;
       background-color: #4CAF50;
       color: white;
+      border: none;
+      transition: background-color 0.2s;
     }
     #neu:hover {
       background-color: #45a049;
+    }
+    #output {
+      font-size: 36px;
+      margin-bottom: 30px;
     }
   </style>
 </head>
@@ -37,9 +38,9 @@ async function ladeZufall() {
   const response = await fetch('names.txt');
   const text = await response.text();
 
-  // Sonderzeichen korrekt trimmen
+  // UTF-8-Zeichen sauber behandeln
   const namen = text
-    .split(/\r?\n/)
+    .split('\n')
     .map(n => n.trim())
     .filter(n => n.length > 0);
 
@@ -47,10 +48,10 @@ async function ladeZufall() {
   document.getElementById('output').textContent = zufall;
 }
 
-// Button mit Klick verbinden
+// Button klickbar machen
 document.getElementById('neu').addEventListener('click', ladeZufall);
 
-// Beim Laden gleich einen Namen anzeigen
+// Direkt beim Laden der Seite einen Namen anzeigen
 ladeZufall();
 </script>
 
