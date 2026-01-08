@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Zufälliger Station</title>
+</head>
+<body>
+
+<h1 id="output">Lade…</h1>
+<button id="neu">Neu</button>
+
+<script>
+async function ladeZufall() {
+  const response = await fetch('names.txt');
+  const text = await response.text();
+
+  const namen = text
+    .split('\n')
+    .map(n => n.trim())
+    .filter(n => n.length > 0);
+
+  const zufall = namen[Math.floor(Math.random() * namen.length)];
+  document.getElementById('output').textContent = zufall;
+}
+
+document.getElementById('neu').addEventListener('click', ladeZufall);
+ladeZufall();
+</script>
+
+</body>
+</html>

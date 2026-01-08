@@ -1,0 +1,256 @@
+GrÃ¼nwald, Bavariafilmplatz
+GrÃ¼nwald, Derbolfinger Platz
+GrÃ¼nwald, Ludwig-Thoma-StraÃŸe
+GrÃ¼nwald, Parkplatz
+GrÃ¼nwald, Robert-Koch-StraÃŸe
+AckermannstraÃŸe
+Agnes-Bernauer-Platz
+Agnes-Bernauer-StraÃŸe
+AidenbachstraÃŸe
+AlbrechtstraÃŸe
+Alte Heide
+Am Gasteig
+Am Hart
+Am Knie
+Am Lokschuppen
+Am MÃ¼nchner Tor
+AmalienburgstraÃŸe
+AmmerseestraÃŸe
+AmpfingstraÃŸe
+Anni-Albers-StraÃŸe
+Arabellapark
+Arabellapark/Klinikum Bogenhausen
+ArabellastraÃŸe
+Authariplatz
+BÃ¶hmerwaldplatz
+BarbarastraÃŸe
+BarthstraÃŸe
+Basler StraÃŸe
+Baumkirchner StraÃŸe
+Berg am Laim Bahnhof
+Bonner Platz
+Borstei
+Botanischer Garten
+Briefzentrum
+BrudermÃ¼hlstraÃŸe
+Bundesfinanzhof
+Burghausener StraÃŸe
+Candidplatz
+Carl-Amery-Platz
+ChiemgaustraÃŸe
+ClemensstraÃŸe
+Cosimabad
+DÃ¼lferstraÃŸe
+Dall'ArmistraÃŸe
+DeroystraÃŸe
+Deutsches Museum
+DietlindenstraÃŸe
+DomagkstraÃŸe
+DonnersbergerstraÃŸe
+Eduard-Schmid-StraÃŸe
+Effnerplatz
+EinsteinstraÃŸe
+Elisabethplatz
+FÃ¼rstenried West
+FÃ¼rstenrieder StraÃŸe
+FachnerstraÃŸe
+FasaneriestraÃŸe
+Feldmoching
+FlurstraÃŸe
+Forstenrieder Allee
+FrÃ¶ttmaning
+Frankfurter Ring
+FraunhoferstraÃŸe
+Freimann
+Friedenheimer StraÃŸe
+Friedensengel/Villa Stuck
+Fritz-Meyer-Weg
+Garching
+Garching-Forschungszentrum
+Garching-HochbrÃ¼ck
+GartenstraÃŸe
+Georg-Brauchle-Ring
+Gern
+Giesing
+Giesing Bahnhof
+GiselastraÃŸe
+Goetheplatz
+Gondrellplatz
+GrillparzerstraÃŸe
+GroÃŸhadern
+GroÃŸhesseloher BrÃ¼cke
+HackerbrÃ¼cke
+Haderner Stern
+Haidenauplatz
+Hanauer StraÃŸe
+Hans-Thonauer-StraÃŸe
+Harras
+Harthof
+Hasenbergl
+Hauptbahnhof
+Hauptbahnhof Nord
+Hauptbahnhof SÃ¼d
+HeideckstraÃŸe
+Heimeranplatz
+Herkomerplatz
+Hermann-Lingg-StraÃŸe
+HerzogstraÃŸe
+Hochschule MÃ¼nchen
+Hochschule MÃ¼nchen (LothstraÃŸe)
+Hohenzollernplatz
+HolbeinstraÃŸe
+Holzapfelkreuth
+HolzapfelstraÃŸe
+Holzkirchner Bahnhof
+HopfenstraÃŸe
+HubertusstraÃŸe
+Hugo-Troendle-StraÃŸe
+ImplerstraÃŸe
+InfanteriestraÃŸe
+Innsbrucker Ring
+Isartor
+Josephsburg
+Josephsplatz
+KÃ¶lner Platz
+KÃ¶nigsplatz
+Kammerspiele
+Karl-Preis-Platz
+Karlsplatz (Stachus)
+Karlsplatz (Stachus) Nord
+KarlstraÃŸe
+Karl-Theodor-StraÃŸe
+Karolinenplatz
+Kieferngarten
+Klinikum GroÃŸhadern
+Klinikum Harlaching
+Kolumbusplatz
+KreillerstraÃŸe
+KriemhildenstraÃŸe
+KurfÃ¼rstenplatz
+KurzstraÃŸe
+Laimer Platz
+LautensackstraÃŸe
+Lehel
+Lenbachplatz
+Leonrodplatz
+LohensteinstraÃŸe
+MÃ¼llerstraÃŸe
+MÃ¼nchner Freiheit
+Machtlfinger StraÃŸe
+MaillingerstraÃŸe
+Mangfallplatz
+Mariahilfplatz
+Mariannenplatz
+Maria-Ward-StraÃŸe
+Marienplatz
+Marienplatz (TheatinerstraÃŸe)
+MarsstraÃŸe
+MauerkircherstraÃŸe
+Maximilianeum
+Maxmonument
+Max-Weber-Platz
+Max-Weber-Platz (Johannisplatz)
+Menterschwaige
+Messestadt Ost
+Messestadt West
+Michaelibad
+Milbertshofen
+Moosach
+Moosacher Sankt-Martins-Platz
+Moosfeld
+MutschellestraÃŸe
+MVG Museum
+Nationalmuseum/Haus der Kunst
+Nationaltheater
+Neuhausen
+Neuperlach SÃ¼d
+Neuperlach Zentrum
+Nordbad
+NordendstraÃŸe
+Nordfriedhof
+Obersendling
+Oberwiesenfeld
+Odeonsplatz
+OffenbachstraÃŸe
+Olympia-Einkaufszentrum
+Olympiapark SÃ¼d
+Olympiapark West
+Olympiazentrum
+Ostbahnhof
+Ostfriedhof
+OttostraÃŸe
+ParadiesstraÃŸe
+Partnachplatz
+Parzivalplatz
+Pasing Bahnhof
+PelkovenstraÃŸe
+Petuelring
+Pinakotheken
+PoccistraÃŸe
+Potsdamer StraÃŸe
+Prinz-Eugen-Park
+Prinzregentenplatz
+QuiddestraÃŸe
+Rathaus Pasing
+Regerplatz
+Regina-Ullmann-StraÃŸe
+Reichenbachplatz
+RenatastraÃŸe
+Richard-Strauss-StraÃŸe
+Riedenburger StraÃŸe
+Romanplatz
+Rosenheimer Platz
+Rotkreuzplatz
+SÃ¤ulingstraÃŸe
+SÃ¼dtiroler StraÃŸe
+SandstraÃŸe
+Sankt-Martins-Platz
+Sankt-Quirin-Platz
+Scheidplatz
+Scheidplatz SÃ¼d
+SchellingstraÃŸe
+Schilcherweg
+SchlÃ¶sselgarten
+SchlÃ¼sselbergstraÃŸe
+Schloss Nymphenburg
+SchrenkstraÃŸe
+Schwabing Nord
+Schwabinger Tor
+SchwanseestraÃŸe
+SchwanthalerhÃ¶he
+Sendlinger Tor
+SenftenauerstraÃŸe
+SiglstraÃŸe
+SilberhornstraÃŸe
+St. Emmeram
+St.-Veit-StraÃŸe
+Stadtwerke MÃ¼nchen
+Stegener Weg
+SternwartstraÃŸe
+Stiglmaierplatz
+Studentenstadt
+TaimerhofstraÃŸe
+Tegernseer LandstraÃŸe
+Thalkirchen
+Theodolindenplatz
+Therese-Giehse-Allee
+TheresienstraÃŸe
+Theresienwiese
+Tiroler Platz
+TivolistraÃŸe
+TrappentreustraÃŸe
+Trudering
+UniversitÃ¤t
+UntersbergstraÃŸe
+Vogelweideplatz
+VolkartstraÃŸe
+WÃ¶rthstraÃŸe
+WerinherstraÃŸe
+Westbad
+WestendstraÃŸe
+Westfriedhof
+Westpark
+Wettersteinplatz
+Wiener Platz
+Willibaldplatz
+Wintrichring
