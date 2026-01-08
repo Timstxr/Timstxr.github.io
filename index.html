@@ -1,51 +1,57 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <title>Zufälliger Bahnhof</title>
+  <meta charset="utf-8">
+  <title>Zufälliger Name</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      margin-top: 50px;
+      margin-top: 100px;
     }
-
     #output {
-      font-size: 2em; /* größerer Text für den String */
-      margin-bottom: 30px;
+      font-size: 2em;
+      margin-bottom: 20px;
     }
-
-    button {
-      font-size: 1.5em;   /* größerer Button */
-      padding: 15px 30px; /* mehr Fläche */
+    #neu {
+      font-size: 1.5em;       /* größere Schrift */
+      padding: 15px 30px;     /* größerer Button */
       cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      background-color: #4CAF50;
+      color: white;
+    }
+    #neu:hover {
+      background-color: #45a049;
     }
   </style>
 </head>
 <body>
 
-<h1 id="output"></h1>
-
-<button onclick="neu()">Neu</button>
+<h1 id="output">Lade…</h1>
+<button id="neu">Neu</button>
 
 <script>
-  const strings = [
-    "Apfel",
-    "Bänäne",
-    "Kirsche",
-    "Ölbaum",
-    "Birne",
-    "Frage: Wie geht's?",
-    "Überraschung"
-  ];
+async function ladeZufall() {
+  const response = await fetch('names.txt');
+  const text = await response.text();
 
-  function neu() {
-    const zufall = strings[Math.floor(Math.random() * strings.length)];
-    document.getElementById("output").textContent = zufall;
-  }
+  // Sonderzeichen korrekt trimmen
+  const namen = text
+    .split(/\r?\n/)
+    .map(n => n.trim())
+    .filter(n => n.length > 0);
 
-  // Zufälliger String direkt beim Laden
-  neu();
+  const zufall = namen[Math.floor(Math.random() * namen.length)];
+  document.getElementById('output').textContent = zufall;
+}
+
+// Button mit Klick verbinden
+document.getElementById('neu').addEventListener('click', ladeZufall);
+
+// Beim Laden gleich einen Namen anzeigen
+ladeZufall();
 </script>
 
 </body>
