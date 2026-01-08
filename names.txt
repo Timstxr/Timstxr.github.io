@@ -77,6 +77,7 @@ Freimann
 Friedenheimer Straße
 Friedensengel/Villa Stuck
 Fritz-Meyer-Weg
+Furth
 Gartenstraße
 Gauting
 Georg-Brauchle-Ring
@@ -105,9 +106,6 @@ Harthaus
 Harthof
 Hasenbergl
 Hauptbahnhof
-Hauptbahnhof (tief)
-Hauptbahnhof Nord
-Hauptbahnhof Süd
 Heideckstraße
 Heimeranplatz
 Herkomerplatz
@@ -116,7 +114,6 @@ Herzogstraße
 Hirschgarten
 Hochschule München
 Hochschule München (Lothstraße)
-Hohenbrunn
 Hohenzollernplatz
 Holbeinstraße
 Holzapfelkreuth
@@ -129,7 +126,6 @@ Implerstraße
 Infanteriestraße
 Innsbrucker Ring
 Isartor
-Ismaning
 Johanneskirchen
 Josephsburg
 Josephsplatz
@@ -237,7 +233,7 @@ Regina-Ullmann-Straße
 Reichenbachplatz
 Renatastraße
 Richard-Strauss-Straße
-Riedenburger Stra��e
+Riedenburger Straße
 Riem
 Romanplatz
 Rosenheimer Platz
